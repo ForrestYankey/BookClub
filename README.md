@@ -4,6 +4,7 @@
 | Title         | Author       | Pages | Recommended By |
 |---------------|--------------|-------|----------------|
 | Red Rising    | Pierce Brown | 382   | Forrest        |
+| The Frozen River | Stephen King |       | AJ             |
 
 ## Read List
 
