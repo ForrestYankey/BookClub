@@ -9,7 +9,7 @@
 | The God of the Woods | Liz Moore | 490 | AJ |
 | The Lord of the Flies | Williiam Goldinig | 224 | Andy |
 | Catch-22 | Joseph Heller | 453 | Andy |
-| Fear and Loathing in Las Vegas | Hunter S Thompson | | Andy |
+| Fear and Loathing in Las Vegas | Hunter S Thompson | 204 | Andy |
 | The Last one at the Wedding | Jason Rekulak | 352 | AJ |
 | Pet Cemmetary | Stephen King | 580 | AJ |
 
